@@ -1,4 +1,4 @@
-package request;
+package benchmark;
 
 import java.time.LocalDateTime;
 import java.util.logging.Logger;

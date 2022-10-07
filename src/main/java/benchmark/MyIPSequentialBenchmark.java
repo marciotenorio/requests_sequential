@@ -1,4 +1,4 @@
-package request;
+package benchmark;
 
 import org.openjdk.jmh.annotations.*;
 

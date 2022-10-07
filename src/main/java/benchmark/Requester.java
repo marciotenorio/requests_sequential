@@ -1,4 +1,4 @@
-package request;
+package benchmark;
 
 import com.google.gson.Gson;
 import org.springframework.http.ResponseEntity;
